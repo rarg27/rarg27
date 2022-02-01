@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm for the most part a Backend Developer who codes in Kotlin (Android) as well. I live for clean code & properly implemented DevOps 👌.
+#### I'm for the most part a Backend Engineer who codes in Kotlin (Android) as well.
 
 <p>
   <img align="left" width="300" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rarg27&layout=compact&card_width=250"/>

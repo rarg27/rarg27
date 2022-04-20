@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm for the most part a Backend Engineer who codes in Kotlin (Android) as well.
+#### I'm a Backend Engineer currently writing REST and GraphQL APIs in Laravel and handling DevOps stuffs.
 
 <p>
   <img align="left" width="300" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rarg27&layout=compact&card_width=250"/>
